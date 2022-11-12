@@ -1,6 +1,6 @@
 # My First React Test
 
-This is my first react project. Just getting objects from 'data.js' then putting it to a 'React Component'.
+This is my first React project. Just getting objects from 'data.js' then putting it to a 'React Component'.
 
 ### Project Screenshot
 
